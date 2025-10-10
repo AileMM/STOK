@@ -1,0 +1,8 @@
+# temporary save data file
+MTOData*
+
+# test file
+test*
+
+# macos trash
+.DS_Store
